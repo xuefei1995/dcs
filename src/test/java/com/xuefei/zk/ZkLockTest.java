@@ -1,4 +1,4 @@
-package com.xuefei;
+package com.xuefei.zk;
 
 import com.xuefei.zk.lock.ZkLock;
 import org.junit.jupiter.api.Test;

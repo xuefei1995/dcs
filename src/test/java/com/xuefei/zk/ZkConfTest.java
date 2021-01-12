@@ -1,4 +1,4 @@
-package com.xuefei;
+package com.xuefei.zk;
 
 import com.xuefei.zk.conf.PubParam;
 import com.xuefei.zk.conf.ZkConfig;
